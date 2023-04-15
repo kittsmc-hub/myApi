@@ -1,6 +1,6 @@
 FROM tiangolo/uvicorn-gunicorn-fastapi:python3.10-2022-11-25
 
-WORKDIR /usr/src/app
+
 
 COPY requirements.txt ./
 
